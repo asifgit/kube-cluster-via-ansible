@@ -1,0 +1,8 @@
+---
+- hosts: all
+  become: true
+  vars:
+     package: vim
+  tasks:
+     - name: Install Vim
+       apt: name={{ package }} state=latest
