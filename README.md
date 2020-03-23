@@ -1,2 +1,2 @@
 # kube-cluster-via-ansible
-Install Distribute Kubernetes Setup via Ansible
+Install distributed Kubernetes Cluster via Ansible
